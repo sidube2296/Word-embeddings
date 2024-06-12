@@ -1,0 +1,12 @@
+flower	garden	0.6
+doctor	nurse	0.8
+fire	water	0.2
+mountain	river	0.5
+movie	popcorn	0.4
+science	art	0.2
+run	swim	0.8
+chef	restaurant	0.8
+computer	internet	0.5
+bicycle	motorcycle	0.6
+bird	fish	0.2
+city	village	0.4
